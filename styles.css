@@ -98,6 +98,27 @@ body {
   .project-link:hover {
     background-color: #0056b3;
   }
+  .disclaimer {
+    font-size: 0.9rem;
+    color: #555;
+    margin-top: 2rem;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.5;
+  }
+  .login-info {
+    margin-top: 1.5rem;
+    font-size: 0.95rem;
+    background: #f8f9fa;
+    color: #333;
+    padding: 1rem;
+    border-left: 4px solid #00bcd4;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+  }    
   .card i, .experience-box i { font-size: 2rem; color: #0077ff; margin-bottom: 0.5rem; }
   .card:hover { transform: translateY(-5px); transition: 0.3s; }
   .socials a {
