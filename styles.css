@@ -10,7 +10,7 @@ body {
   }
   #hero {
     background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), 
-                url('https://media.licdn.com/dms/image/v2/D562DAQG3d7s3c9eV9Q/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1725766885239?e=1746403200&v=beta&t=51UmZy59WnggJ0B3l_HX7PFYymxsfK9JpdVxkYdarnw') center/cover no-repeat;
+                url('https://media.licdn.com/dms/image/v2/D562DAQG3d7s3c9eV9Q/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1725766885239?e=1747054800&v=beta&t=dWWrGRR8ZosU4e_asjKLQ1oqtbd4l7yUb6KEibc3-h8') center/cover no-repeat;
     height: 100vh;
     display: flex;
     align-items: center;
